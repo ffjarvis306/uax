@@ -2,3 +2,5 @@
 [FBAN/FB4A;FBAV/306.1.0.40.119;FBBV/273922391;FBDM/{{density=1.6875,width=720,height=1600}};FBLC/ru_RU;FBCR/LV TELE2;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-E045F;FBSV/12;FBOP/1;FBCA/arm64-v8a:;]
 #METHOD2
 [FBAN/FB4A;FBAV/368.0.0.42.109;FBBV/598273654;FBDM/{density=2.75,width=1080,height=2400};FBLC/fr_FR;FBCR/Orange FR;FBMF/Xiaomi;FBBD/Xiaomi;FBPN/com.facebook.katana;FBDV/Redmi Note 11;FBSV/12;FBOP/1;FBCA/arm64-v8a;]
+#METHOD3
+[FBAN/FB4A;FBAV/368.0.0.29.112;FBBV/598273614;FBDM/{density=3.0,width=1080,height=2400};FBLC/de_DE;FBCR/Vodafone DE;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-A525F;FBSV/13;FBOP/1;FBCA/arm64-v8a;]
