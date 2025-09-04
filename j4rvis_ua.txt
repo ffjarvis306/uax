@@ -1,6 +1,6 @@
 #METHOD6
-[FBAN/FB4A;FBAV/366.0.0.22.118;FBBV/597833412;FBDM/{density=2.75,width=1080,height=2280};FBLC/it_IT;FBCR/Vodafone IT;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-A505FN;FBSV/11;FBOP/25;FBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/366.0.0.22.118;FBBV/597833412;FBDM/{density=2.75,width=1080,height=2280};FBLC/it_IT;FBCR/Vodafone IT;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-A505FN;FBSV/11;FBOP/1;FBCA/arm64-v8a:;]
 #METHOD2
 [FBAN/FB4A;FBAV/358.0.0.21.112;FBBV/589214372;FBDM/{density=2.75,width=1080,height=2280};FBLC/hu_HU;FBCR/Telenor HU;FBMF/LG;FBBD/LG;FBPN/com.facebook.katana;FBDV/LM-G710;FBSV/11;FBOP/1;FBCA/arm64-v8a:;]
 #METHOD3
-[FBAN/FB4A;FBAV/371.0.0.24.109;FBBV/601238911;FBDM/{density=3.0,width=1080,height=2400};FBLC/de_DE;FBCR/Telekom DE;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G973F;FBSV/12;FBOP/29;FBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/371.0.0.24.109;FBBV/601238911;FBDM/{density=3.0,width=1080,height=2400};FBLC/de_DE;FBCR/Telekom DE;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G973F;FBSV/12;FBOP/1;FBCA/arm64-v8a:;]
